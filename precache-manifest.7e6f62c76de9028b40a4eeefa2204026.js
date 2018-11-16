@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/Quote_8_Eleanor_Roosevelt.2fb84a91.jpg"
   },
   {
-    "revision": "5064590b5fb80f3b254f",
+    "revision": "5b8b807d25e23b3a6d61",
     "url": "/portfolio/static/css/main.555560c5.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/glyphicons-halflings-regular.89889688.svg"
   },
   {
-    "revision": "9fd05fce6f8eacf16c0a",
-    "url": "/portfolio/static/js/1.9fd05fce.chunk.js"
+    "revision": "1c46a1c783749be5069d",
+    "url": "/portfolio/static/js/1.1c46a1c7.chunk.js"
   },
   {
     "revision": "ee2a100325fd284f0097",
@@ -28,31 +28,31 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/Student_Management_System.a35afd3c.png"
   },
   {
-    "revision": "5064590b5fb80f3b254f",
-    "url": "/portfolio/static/js/main.5064590b.chunk.js"
-  },
-  {
-    "revision": "f4769f9bdb7466be65088239c12046d1",
-    "url": "/portfolio/static/media/glyphicons-halflings-regular.f4769f9b.eot"
-  },
-  {
-    "revision": "448c34a56d699c29117adc64c43affeb",
-    "url": "/portfolio/static/media/glyphicons-halflings-regular.448c34a5.woff2"
+    "revision": "5b8b807d25e23b3a6d61",
+    "url": "/portfolio/static/js/main.5b8b807d.chunk.js"
   },
   {
     "revision": "fa2772327f55d8198301fdb8bcfc8158",
     "url": "/portfolio/static/media/glyphicons-halflings-regular.fa277232.woff"
   },
   {
+    "revision": "448c34a56d699c29117adc64c43affeb",
+    "url": "/portfolio/static/media/glyphicons-halflings-regular.448c34a5.woff2"
+  },
+  {
+    "revision": "f4769f9bdb7466be65088239c12046d1",
+    "url": "/portfolio/static/media/glyphicons-halflings-regular.f4769f9b.eot"
+  },
+  {
     "revision": "e18bbf611f2a2e43afc071aa2f4e1512",
     "url": "/portfolio/static/media/glyphicons-halflings-regular.e18bbf61.ttf"
   },
   {
-    "revision": "9fd05fce6f8eacf16c0a",
+    "revision": "1c46a1c783749be5069d",
     "url": "/portfolio/static/css/1.1b3ea3b1.chunk.css"
   },
   {
-    "revision": "e2d130f6a51f0343cf20a10e2e895649",
+    "revision": "4015ec03dfe1e2ba7be3d639f9235bab",
     "url": "/portfolio/index.html"
   }
 ];
