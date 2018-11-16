@@ -1,7 +1,7 @@
 {
   "main.css": "/portfolio/static/css/main.555560c5.chunk.css",
-  "main.js": "/portfolio/static/js/main.90c220a3.chunk.js",
-  "main.js.map": "/portfolio/static/js/main.90c220a3.chunk.js.map",
+  "main.js": "/portfolio/static/js/main.5064590b.chunk.js",
+  "main.js.map": "/portfolio/static/js/main.5064590b.chunk.js.map",
   "static/css/1.1b3ea3b1.chunk.css": "/portfolio/static/css/1.1b3ea3b1.chunk.css",
   "static/js/1.9fd05fce.chunk.js": "/portfolio/static/js/1.9fd05fce.chunk.js",
   "static/js/1.9fd05fce.chunk.js.map": "/portfolio/static/js/1.9fd05fce.chunk.js.map",
@@ -11,9 +11,9 @@
   "static/media/Quote_8_Eleanor_Roosevelt.jpg": "/portfolio/static/media/Quote_8_Eleanor_Roosevelt.2fb84a91.jpg",
   "static/media/bootstrap.min.css": "/portfolio/static/media/glyphicons-halflings-regular.89889688.svg",
   "static/media/Student_Management_System.png": "/portfolio/static/media/Student_Management_System.a35afd3c.png",
-  "static/css/main.555560c5.chunk.css.map": "/portfolio/static/css/main.555560c5.chunk.css.map",
   "static/css/1.1b3ea3b1.chunk.css.map": "/portfolio/static/css/1.1b3ea3b1.chunk.css.map",
+  "static/css/main.555560c5.chunk.css.map": "/portfolio/static/css/main.555560c5.chunk.css.map",
   "index.html": "/portfolio/index.html",
-  "precache-manifest.9d4c22d880896636563c1d43da520dfa.js": "/portfolio/precache-manifest.9d4c22d880896636563c1d43da520dfa.js",
+  "precache-manifest.2a32d204f9c8476c7c81924999a4f9e2.js": "/portfolio/precache-manifest.2a32d204f9c8476c7c81924999a4f9e2.js",
   "service-worker.js": "/portfolio/service-worker.js"
 }
