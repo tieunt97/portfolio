@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/Quote_8_Eleanor_Roosevelt.2fb84a91.jpg"
   },
   {
-    "revision": "e478c30e898e9f7a0fba",
-    "url": "/portfolio/static/css/main.a70e2e14.chunk.css"
+    "revision": "90c220a362c65e2252ff",
+    "url": "/portfolio/static/css/main.555560c5.chunk.css"
   },
   {
     "revision": "89889688147bd7575d6327160d64e760",
     "url": "/portfolio/static/media/glyphicons-halflings-regular.89889688.svg"
   },
   {
-    "revision": "67a701a4d251dca4024a",
-    "url": "/portfolio/static/js/1.67a701a4.chunk.js"
+    "revision": "9fd05fce6f8eacf16c0a",
+    "url": "/portfolio/static/js/1.9fd05fce.chunk.js"
   },
   {
     "revision": "ee2a100325fd284f0097",
@@ -28,12 +28,8 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/Student_Management_System.a35afd3c.png"
   },
   {
-    "revision": "e478c30e898e9f7a0fba",
-    "url": "/portfolio/static/js/main.e478c30e.chunk.js"
-  },
-  {
-    "revision": "f4769f9bdb7466be65088239c12046d1",
-    "url": "/portfolio/static/media/glyphicons-halflings-regular.f4769f9b.eot"
+    "revision": "90c220a362c65e2252ff",
+    "url": "/portfolio/static/js/main.90c220a3.chunk.js"
   },
   {
     "revision": "448c34a56d699c29117adc64c43affeb",
@@ -44,15 +40,19 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/glyphicons-halflings-regular.fa277232.woff"
   },
   {
+    "revision": "f4769f9bdb7466be65088239c12046d1",
+    "url": "/portfolio/static/media/glyphicons-halflings-regular.f4769f9b.eot"
+  },
+  {
     "revision": "e18bbf611f2a2e43afc071aa2f4e1512",
     "url": "/portfolio/static/media/glyphicons-halflings-regular.e18bbf61.ttf"
   },
   {
-    "revision": "67a701a4d251dca4024a",
-    "url": "/portfolio/static/css/1.af035106.chunk.css"
+    "revision": "9fd05fce6f8eacf16c0a",
+    "url": "/portfolio/static/css/1.1b3ea3b1.chunk.css"
   },
   {
-    "revision": "a173058c833cdd7c7125d37311df11d7",
+    "revision": "db15ccf190b8cc883b0d6238e280de75",
     "url": "/portfolio/index.html"
   }
 ];
