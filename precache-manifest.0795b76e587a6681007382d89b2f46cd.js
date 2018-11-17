@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/Quote_8_Eleanor_Roosevelt.2fb84a91.jpg"
   },
   {
-    "revision": "8e1df6849a4faceb729c",
+    "revision": "1f0a0e0d302ea533b6c7",
     "url": "/portfolio/static/css/main.555560c5.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/Student_Management_System.a35afd3c.png"
   },
   {
-    "revision": "8e1df6849a4faceb729c",
-    "url": "/portfolio/static/js/main.8e1df684.chunk.js"
+    "revision": "1f0a0e0d302ea533b6c7",
+    "url": "/portfolio/static/js/main.1f0a0e0d.chunk.js"
   },
   {
     "revision": "f4769f9bdb7466be65088239c12046d1",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/css/1.1b3ea3b1.chunk.css"
   },
   {
-    "revision": "f4403210da784357f3ddaa185e258a75",
+    "revision": "200431ee02fe3031e854f668f11ad1cd",
     "url": "/portfolio/index.html"
   }
 ];
